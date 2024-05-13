@@ -1,2 +1,6 @@
 Mi primer repositorio
 git init
+
+git add
+git status
+git commit
